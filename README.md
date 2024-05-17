@@ -29,7 +29,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
 
    | Histogram | Normalization | Equalization |  
    | :----------------------------: | :-----------------------------: | :-----------------------------: |
-   |  |  | |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/e8d448b1-568b-45da-8f08-10e3e6227c95) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/2e65594b-dbbd-49e2-a39d-d1c8b7ba399e) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/56b805a4-a3f1-4c2b-8541-560d7b74eacd) |
 
 - **Thresholding Techniques:**
   - Apply various thresholding techniques, including Global and Local Thresholding, to segment images and extract important features.
