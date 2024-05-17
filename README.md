@@ -36,7 +36,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
  
    | Local | Global |  
    | :----------------------------: | :-----------------------------: |
-   | ![](Results/local-thresh.png) | ![](Results/global-thresh.png) |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/6dfbd4b6-fd28-4283-8225-2994f72b5c22) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/6fd38aeb-7e1e-48c5-807c-73335d4d2241) |
 
 - **Frequency Domain Filters:**
   - Apply frequency domain filters such as Low Pass and High Pass filters to manipulate image frequency components for image enhancement and noise reduction.
@@ -44,7 +44,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
     
    | High pass | Low pass |  
    | :----------------------------: | :-----------------------------: |
-   | ![](Results/high-pass.png) | ![](Results/low-pass.png) |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/1c1f3014-25f1-4404-8417-86c475d6f219) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/42069143-8af4-41a1-bbd2-9793ec1d119c) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/3ca9baf9-19e1-42ea-a427-975f5bfd435d) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/abe2cfb2-aebd-4aa3-a2c1-14a119fa46c0) |
 
     
  
