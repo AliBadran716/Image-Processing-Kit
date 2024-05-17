@@ -14,7 +14,8 @@ With our desktop application, users can effortlessly load images, apply a wide r
 
    |         Uniform Noise          |         Guassian Noise          |        Salt & Pepper Noise         |
    | :----------------------------: | :-----------------------------: | :--------------------------------: |
-   | img | img | img |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/edc4b200-7661-44d5-9a39-9093dd790be9)
+ | img | img |
 
 - **Image Filtering:**
   - Apply various filters including Average, Gaussian, and Median filters to enhance image quality and reduce noise.
