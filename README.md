@@ -62,7 +62,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
  
    | Line | Circle | Ellipse |  
    | :----------------------------: | :-----------------------------: | :-----------------------------: |
-   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/5bf1b031-81d2-4167-a7f8-8b9363e36514) |  |  |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/5bf1b031-81d2-4167-a7f8-8b9363e36514) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/95fe8821-aab6-4572-af49-a39c4c29e17c) |  |
 
 - **Active Contour:**
   - Use active contour models (also known as snakes) to detect and track object boundaries in images.
@@ -72,7 +72,8 @@ With our desktop application, users can effortlessly load images, apply a wide r
 
    | Example 1 | Example 2 |  
    | :----------------------------: | :-----------------------------: |
-   | | |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/6324d38b-2843-4ef6-8e74-e626629b82f7) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/0693d3c2-1252-467d-baa0-8c07b2880605) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/ce155f28-8c4c-42ca-900b-9598d15177c0)
+ | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/17241429-5b66-4b14-bcea-826f82fc81df) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/63d534ea-d28e-4448-bb97-2e611db5ffb7) |
 
 - **Feature Detection:**
   - Detect image features using methods like Harris Corner Detector and Lambda Corner Detector for point feature extraction.
@@ -80,13 +81,13 @@ With our desktop application, users can effortlessly load images, apply a wide r
     
    | Harris | Lambda |  
    | :----------------------------: | :-----------------------------: |
-   |  | |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/af4b4b94-d2c9-4533-8ce2-7895b57261ad) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/68c0469d-bd69-413e-95aa-dfba6517ff63) |
 
 - **Feature Matching:**
   
-   | Square Sum of Differences method | Cross-Correlation Method |  
+   | Square Sum of Differences method | Cross-Correlation Method |  SIFT |
    | :----------------------------: | :-----------------------------: |
-   | | |
+   | ![SSD](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/af8a51f3-26fa-4e3a-bb15-be7b8d81574c) | ![NCC](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/f9f0d56b-ffc3-4171-945a-10e4fff05488) | ![SIFT_matching](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/24e28f67-fa61-46f2-aca4-655b3af23747) |
 
   
 - **SIFT Descriptors:**
