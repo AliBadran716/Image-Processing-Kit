@@ -54,7 +54,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
     
    | Sobel | Roberts | Perwitt | Canny |
    | :----------------------------: | :-----------------------------: | :--------------------------------: | :--------------------------------: |
-   |  |  | |  |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/1774fb92-4e32-4013-8a8d-a7aed4d70e87) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/51c4a02a-ffa2-44f2-acf1-7b4a38373051) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/36b10936-65c3-4b4f-8510-80500b18fb05) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/432bdf73-371f-4080-81f5-2fc66e569d46) |
 
 
 - **Hough Transform:**
@@ -62,7 +62,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
  
    | Line | Circle | Ellipse |  
    | :----------------------------: | :-----------------------------: | :-----------------------------: |
-   |  |  |  |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/5bf1b031-81d2-4167-a7f8-8b9363e36514) |  |  |
 
 - **Active Contour:**
   - Use active contour models (also known as snakes) to detect and track object boundaries in images.
