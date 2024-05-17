@@ -86,7 +86,7 @@ With our desktop application, users can effortlessly load images, apply a wide r
   
    | Square Sum of Differences method | Cross-Correlation Method |  SIFT |
    | :----------------------------: | :-----------------------------: |
-   | ![SSD](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/af8a51f3-26fa-4e3a-bb15-be7b8d81574c) | ![NCC](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/f9f0d56b-ffc3-4171-945a-10e4fff05488) | ![SIFT_matching](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/24e28f67-fa61-46f2-aca4-655b3af23747) |
+   |![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/bffb8574-5dfa-43ca-9cd6-d1e848b29b35) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/52cd4deb-fe08-48d1-9236-8f6d95828e5a) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/68cf3455-c692-466a-b856-160bc951988e) |
 
   
 - **SIFT Descriptors:**
@@ -117,7 +117,8 @@ With our desktop application, users can effortlessly load images, apply a wide r
 
     | Agglomerative Segmentation |         Region Growing          |
     | :------------------------: | :-----------------------------: |
-    |  img  | img |
+    |  ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/999e098f-f480-4499-8689-273ab261264c) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/47f60b3a-f4c0-4dce-b9e9-46e0dedda685)
+ |
 
 ## Summary
 
