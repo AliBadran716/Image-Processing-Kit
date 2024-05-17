@@ -14,20 +14,14 @@ With our desktop application, users can effortlessly load images, apply a wide r
 
    |         Uniform Noise          |         Guassian Noise          |        Salt & Pepper Noise         |
    | :----------------------------: | :-----------------------------: | :--------------------------------: |
-   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/edc4b200-7661-44d5-9a39-9093dd790be9)
- | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/06186323-5356-449c-90a1-6b2654608569)
- | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/1b7c4065-fa39-476e-9eb7-a7b471c71df4)
- |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/edc4b200-7661-44d5-9a39-9093dd790be9) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/06186323-5356-449c-90a1-6b2654608569) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/1b7c4065-fa39-476e-9eb7-a7b471c71df4) |
 
 - **Image Filtering:**
   - Apply various filters including Average, Gaussian, and Median filters to enhance image quality and reduce noise.
     
    |         Average Filter          |         Gaussian Filter          |         Median Filter          |
    | :-----------------------------: | :------------------------------: | :----------------------------: |
-   |![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/628bfe27-0a13-481f-8c66-cb6691f95ab2)
- | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/aac63a83-8945-4a3a-968d-0a4b142b503f)
- | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/e84e2022-6643-43f7-999d-d48840e691e7)
- |
+   |![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/628bfe27-0a13-481f-8c66-cb6691f95ab2) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/aac63a83-8945-4a3a-968d-0a4b142b503f) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/e84e2022-6643-43f7-999d-d48840e691e7) |
 
 - **Histogram Visualization and Equalization:**
   - Visualize histograms and distribution curves of images to understand their pixel intensity distribution.
