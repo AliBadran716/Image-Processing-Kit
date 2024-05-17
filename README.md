@@ -72,8 +72,8 @@ With our desktop application, users can effortlessly load images, apply a wide r
 
    | Example 1 | Example 2 |  
    | :----------------------------: | :-----------------------------: |
-   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/6324d38b-2843-4ef6-8e74-e626629b82f7) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/0693d3c2-1252-467d-baa0-8c07b2880605) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/ce155f28-8c4c-42ca-900b-9598d15177c0)
- | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/17241429-5b66-4b14-bcea-826f82fc81df) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/63d534ea-d28e-4448-bb97-2e611db5ffb7) |
+   | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/6324d38b-2843-4ef6-8e74-e626629b82f7) ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/0693d3c2-1252-467d-baa0-8c07b2880605) | ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/17241429-5b66-4b14-bcea-826f82fc81df)  ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/ce155f28-8c4c-42ca-900b-9598d15177c0)
+  ![image](https://github.com/AliBadran716/Image-Processing-Kit/assets/102072821/63d534ea-d28e-4448-bb97-2e611db5ffb7) |
 
 - **Feature Detection:**
   - Detect image features using methods like Harris Corner Detector and Lambda Corner Detector for point feature extraction.
